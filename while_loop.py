@@ -4,3 +4,5 @@ while i<=number:
     print(i)
     i=i+1
 
+for i in range(i,number):
+    print(i)
